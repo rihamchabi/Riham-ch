@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Site</title>
+</head>
+<body>
+
+<h1>Welcome to my site</h1>
+<h2>Web Dev</h2>
+
+<p>Full Name:</p>
+<p>Age:</p>
+<p>Class:</p>
+<p>University:</p>
+
+</body>
+</html>
